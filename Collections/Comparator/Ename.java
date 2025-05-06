@@ -6,3 +6,4 @@ public class Ename implements Comparator<Employee>{
 				return e1.ename.compareTo(e2.ename);
 	}
 }
+
