@@ -1,9 +1,8 @@
 package Collections;
 
-import java.util.Iterator;
-import java.util.LinkedList;
+
 import java.util.*;
-import java.util.Stack;
+
 //Demo for linked list
 public class DemoLinkedList {
 	public static void main(String[] args) {
@@ -34,7 +33,7 @@ public class DemoLinkedList {
 		System.out.println("The data after removing");
 		ll.remove(2);
 		for(String s:ll) {
-			System.out.println("The data"+s);
+			System.out.println("The data "+s);
 		}
 		
 		Stack s=new Stack<>();
