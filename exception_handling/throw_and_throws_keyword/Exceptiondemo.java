@@ -1,5 +1,5 @@
 package exception_handling.try_catch;
-
+ 
 public class Exceptiondemo {
 	public static void divide(int a,int b) {
 		int result;
