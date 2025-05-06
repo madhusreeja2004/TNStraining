@@ -12,7 +12,7 @@ public class DemoLinkedList {
 		
 		List l=new LinkedList();
 		
-		//adding of data
+		//adding of data 
 		ll.add("booby");
 		ll.add("Vicent");
 		ll.add("Swetha");
